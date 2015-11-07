@@ -26,6 +26,8 @@
 <a name="branching"></a>
 ##Branching
  (Remote and Local)
+  * To delete a branch, type git push origin :Branch_Name
+    * where Branch_Name is the name of your Branch
 
 ####Merging
 
